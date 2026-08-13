@@ -209,7 +209,7 @@ Proper Graph tests follow this pattern:
 make patch v=1.5.0  # Update version across all packages
 ```
 
-This updates: `pyproject.toml`, `src/backend/base/pyproject.toml`, `src/frontend/package.json`
+This updates: `pyproject.toml`, `src/backend/base/pyproject.toml`, `src/lfx/pyproject.toml`, `src/frontend/package.json`
 
 ## Pre-commit Workflow
 
